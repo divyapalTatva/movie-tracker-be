@@ -1,0 +1,9 @@
+/.vs
+/Movie-Tracker-Backend/bin
+/Movie-Tracker-Backend/obj
+/Movie-Tracker-Backend/.config
+/Movie-Tracker-Backend/Properties/PublishProfiles
+/Movie-Tracker-Models/bin
+/Movie-Tracker-Models/obj
+/Movie-Tracker-Services/bin
+/Movie-Tracker-Services/obj
