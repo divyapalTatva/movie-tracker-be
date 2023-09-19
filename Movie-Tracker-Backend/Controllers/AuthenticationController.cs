@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Movie_Tracker_Common.ViewModels;
 using Movie_Tracker_Services.Service_Interfaces;
 
 namespace Movie_Tracker_Backend.Controllers
@@ -15,9 +16,9 @@ namespace Movie_Tracker_Backend.Controllers
         }
 
         [HttpPost("Login")]
-        public JsonResult Login(string password)
+        public JsonResult Login(LoginVM login)
         {
-            return authService.Login(password);
+            return authService.Login(login);
         }
     }
 }

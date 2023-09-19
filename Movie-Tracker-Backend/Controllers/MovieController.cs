@@ -13,7 +13,7 @@ namespace Movie_Tracker_Backend.Controllers
         IMovieService movieService;
         public MovieController(IMovieService _movieService)
         {
-            movieService=_movieService;
+            movieService = _movieService;
         }
 
         [HttpGet("GetMovies")]

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Movie_Tracker_Common.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace Movie_Tracker_Services.Service_Interfaces
 {
     public interface IAuthorizeService
     {
-        public JsonResult Login(string password);
+        public JsonResult Login(LoginVM login);
     }
 }

@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Configuration;
 using Movie_Tracker_Common.CommonMethods;
 using Movie_Tracker_Common.GenericResponses;
+using Movie_Tracker_Common.ViewModels;
 using Movie_Tracker_Services.Service_Interfaces;
 using System;
 using System.Collections.Generic;
@@ -11,16 +12,16 @@ using System.Threading.Tasks;
 
 namespace Movie_Tracker_Services.Services
 {
-    public class AuthorizeService: IAuthorizeService
+    public class AuthorizeService : IAuthorizeService
     {
         IConfiguration config;
         public AuthorizeService(IConfiguration _config)
         {
             config = _config;
         }
-        public JsonResult Login(string password)
+        public JsonResult Login(LoginVM login)
         {
-            if (password == "User@123")
+            if (login.Password == "User@123")
             {
                 CommonMethods common = new CommonMethods(config);
                 string token = common.CreateJWt();
