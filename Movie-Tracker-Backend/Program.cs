@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using Movie_Tracker.models.Data;
 using Movie_Tracker_Services.Service_Interfaces;
 using Movie_Tracker_Services.Services;
 using System.Text;
@@ -42,6 +43,7 @@ builder.Services.AddCors(option =>
     });
 });
 
+builder.Services.AddDbContext<MovieTrackerContext>();
 builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<IAuthorizeService, AuthorizeService>();
 var app = builder.Build();

@@ -11,7 +11,8 @@ namespace Movie_Tracker_Common.GenericResponses
         public static string Success = "Success";
         public static string Error = "Some Error Occured";
         public static string MovieNotFound = "Movie Does Not exists";
-        public static string InvalidCredentials= "Password is incorrect";
+        public static string InvalidCredentials= "User Id or Password is incorrect";
+        public static string LoginSuccess= "Login Successfull";
 
     }
 }

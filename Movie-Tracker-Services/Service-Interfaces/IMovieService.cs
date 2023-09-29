@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Movie_Tracker_Common.ViewModels;
+using Movie_Tracker.models.ViewModels;
+using Movie_Tracker_Common.GenericResponses;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,5 +21,6 @@ namespace Movie_Tracker_Services.Service_Interfaces
         public JsonResult UpdateMovie(MovieVM movie);
 
         public JsonResult DeleteMovie(int id);
+        public JsonResult GetGenres();
     }
 }

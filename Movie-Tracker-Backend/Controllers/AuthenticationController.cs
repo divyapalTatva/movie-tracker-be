@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Movie_Tracker_Common.ViewModels;
+using Movie_Tracker.models.ViewModels;
+using Movie_Tracker_Common.GenericResponses;
 using Movie_Tracker_Services.Service_Interfaces;
 
 namespace Movie_Tracker_Backend.Controllers

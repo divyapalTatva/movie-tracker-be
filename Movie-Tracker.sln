@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movie-Tracker.Services", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Movie-Tracker.Common", "Movie-Tracker-Models\Movie-Tracker.Common.csproj", "{74DB7062-5C94-49C1-8E32-A665AC5A8A8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie-Tracker.models", "Movie-Tracker.models\Movie-Tracker.models.csproj", "{274211AB-504B-420D-8A53-C064B2010AAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{74DB7062-5C94-49C1-8E32-A665AC5A8A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74DB7062-5C94-49C1-8E32-A665AC5A8A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74DB7062-5C94-49C1-8E32-A665AC5A8A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274211AB-504B-420D-8A53-C064B2010AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274211AB-504B-420D-8A53-C064B2010AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274211AB-504B-420D-8A53-C064B2010AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274211AB-504B-420D-8A53-C064B2010AAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\bin\Debug\net6.0\Movie-Tracker.models.deps.json
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\bin\Debug\net6.0\Movie-Tracker.models.dll
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\bin\Debug\net6.0\ref\Movie-Tracker.models.dll
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\bin\Debug\net6.0\Movie-Tracker.models.pdb
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\Movie-Tracker.models.csproj.AssemblyReference.cache
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\Movie-Tracker.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\Movie-Tracker.models.AssemblyInfoInputs.cache
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\Movie-Tracker.models.AssemblyInfo.cs
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\Movie-Tracker.models.csproj.CoreCompileInputs.cache
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\Movie-Tracker.models.dll
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\ref\Movie-Tracker.models.dll
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\Movie-Tracker.models.pdb
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\bin\Debug\net6.0\Movie-Tracker.models.runtimeconfig.json
+D:\Project-TatvaSoft\Movie-Tracker\Movie-Tacker-Backend\Movie-Tracker-Backend\Movie-Tracker.models\obj\Debug\net6.0\Movie-Tracker.models.genruntimeconfig.cache

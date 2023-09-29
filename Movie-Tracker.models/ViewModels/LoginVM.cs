@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Movie_Tracker_Common.ViewModels
+namespace Movie_Tracker.models.ViewModels
 {
     public class LoginVM
     {
